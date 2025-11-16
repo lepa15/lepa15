@@ -15,7 +15,7 @@
 ---
 
 ### 📫 Как связаться
-- Email: **alexeyoleynik.dev@gmail.com**  
+- Email: **lepa2604@gmail.com**  
 - Telegram: [@lepa15](https://t.me/lepa15)
 
 ---

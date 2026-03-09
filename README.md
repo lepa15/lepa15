@@ -1,23 +1,90 @@
-# Привет, я Алексей 👋  
-### Фронтенд-разработчик, который любит создавать живые и продуманные интерфейсы
+# Hi, I'm Alexey 👋
 
-💻 Сейчас изучаю **React**.  
-🎨 Стремлюсь к тому, чтобы код был чистым, а интерфейсы — понятными и визуально выразительными.  
-🚀 Хочу развиваться в направлении **фронтенда**.
+Frontend Developer focused on building clean, interactive, and user-friendly interfaces.
 
 ---
 
-### 🧠 Что я знаю и использую
-- **HTML / CSS / JavaScript (ES6+)**
-- **React / Redux / React Router / Hooks**
-- **Git / GitHub / Figma**
+## 🚀 About Me
+
+* 💻 I build modern web applications using the React ecosystem
+* 🎨 I care about clean code, thoughtful architecture, and intuitive UI
+* ⚡ Interested in scalable frontend architecture and full-stack development
+* 🚀 Constantly improving my development workflow and best practices
 
 ---
 
-### 📫 Как связаться
-- Email: **lepa2604@gmail.com**  
-- Telegram: [@lepa15](https://t.me/lepa15)
+## 🧰 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React
+* Redux / Redux Toolkit
+* React Router
+* Hooks
+
+### Backend
+
+* Node.js
+* Express.js
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* Figma
+* Vite
+* ESLint
+* Jest
 
 ---
 
-💬 *“Код — это не просто инструмент, а форма самовыражения.”*
+## 📂 Projects
+
+### 🐦 Twitter Clone
+
+Full-stack Twitter-like application.
+
+**Stack**
+
+React • TypeScript • Redux Toolkit • Node.js • Express • PostgreSQL
+
+**Features**
+
+* User authentication
+* Create posts
+* Delete posts
+* Posts feed
+
+---
+
+### ♠ Poker Hand Evaluator
+
+Algorithm for evaluating poker hands and determining the winning combination.
+
+**Stack**
+
+JavaScript • Node.js • Jest
+
+**Features**
+
+* Detects all poker combinations
+* Determines the best hand
+* Supports multiple winners in case of a tie
+
+---
+
+## 📫 Contact
+
+* 📧 Email: **[lepa2604@gmail.com](mailto:lepa2604@gmail.com)**
+* 💬 Telegram: **@lepa15**
+
+---
+
+## 💬 Philosophy
+
+> “Code is not just a tool — it is a form of expression.”

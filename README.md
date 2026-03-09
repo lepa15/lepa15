@@ -81,7 +81,7 @@ JavaScript • Node.js • Jest
 ## 📫 Contact
 
 * 📧 Email: **[lepa2604@gmail.com](mailto:lepa2604@gmail.com)**
-* 💬 Telegram: **@lepa15**
+* 💬 Telegram: **@lepa1515**
 
 ---
 
